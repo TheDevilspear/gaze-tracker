@@ -1,0 +1,15 @@
+opencv-python
+mediapipe>=0.10.0,<0.10.15
+numpy
+pandas
+pymongo
+SpeechRecognition
+pydub
+PyAudio
+transformers
+torch
+dnspython
+python-dotenv
+pyautogui
+scipy
+soundfile

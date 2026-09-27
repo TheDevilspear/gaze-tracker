@@ -1,0 +1,32 @@
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.classs
+*.so
+.pytest_cache/
+
+# Environment Variables & Secrets
+.env
+
+# Session Outputs & Generated Media
+*.csv
+*.png
+*.jpg
+*.wav
+calibration_matrix.npy
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# External Toolboxes
+rPPG-Toolbox/
